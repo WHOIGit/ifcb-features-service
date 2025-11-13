@@ -49,4 +49,4 @@ htmlcov/
 .env
 .env.local
 
-./data/
+data/
